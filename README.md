@@ -1,10 +1,4 @@
 
-### Installing
-
-We offer binary images of the latest releases here: https://latest.turtlecoin.lol
-
-If you would like to compile yourself, read on.
-
 ### How To Compile
 
 #### Linux
